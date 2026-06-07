@@ -1,0 +1,7 @@
+*.exe
+*.msi
+*.zip
+*.rar
+build/
+main.dist/
+main.build/
