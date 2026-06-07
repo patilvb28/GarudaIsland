@@ -47,6 +47,7 @@
 
 1. Download the latest installer from the [Releases](https://github.com/YOUR_GITHUB_USERNAME/GarudaIsland/releases) section.
 2. Run `GarudaIsland_v1.0.0_Setup.exe`.
+   - 🛡️ **Installation Note:** Since this is an indie project without an expensive corporate certificate, **Windows SmartScreen** may show an "Unrecognized App" blue warning. Simply click **More info** -> **Run anyway** to install. The app is 100% safe.
 3. Follow the setup wizard (You can enable Auto-Start and Premium Blur here).
 4. Enjoy your new Island! Press `Ctrl+Alt+G` to toggle the Control Center anytime.
 
